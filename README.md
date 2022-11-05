@@ -5,7 +5,6 @@ Description : hello there, this project contain some of the most asked important
 <br /> my mail id : maheshrao2002@gmail.com 
 
 <br />
-<br />
 NOTE :  _If you find any better solution, then please commit you code in comment at the end of my program._
 <br />
 <br />
