@@ -13,7 +13,7 @@ Please don't overwrite the previous soltuoin.
 
 ## Deployment
 
-Minimum requirement to run the (.cpp) file is that you must have Mingw-w64 or other C++ Compiler in your PC.
+Minimum requirement to run the (.cpp) file is that you must have Mingw-w64 or C++ Compiler in your PC.
 
 
 ## Feedback
