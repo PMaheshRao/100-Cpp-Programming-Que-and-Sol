@@ -1,5 +1,5 @@
 # CPP-Basic-Que-and-Sol
-##PROJECT TITLE :   ***100 Basic c++ Questions and Solution.***
+## PROJECT TITLE :   ***100 Basic c++ Questions and Solution.***
 <br />
 hello there, this project contain some of the most asked important question and their solution . If you find any mistake or better soltuion then please commit your soltion with comments at the end of my program. Please don't overwrite the previous soltuoin. 
 <br /> my mail id : maheshrao2002@gmail.com 
