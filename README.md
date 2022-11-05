@@ -8,7 +8,7 @@ Please don't overwrite the previous soltuoin.
 
 ## Authors
 
-- [@PMaheshRao](https://github.com/PMaheshRao)
+- [@P Mahesh Rao](https://github.com/PMaheshRao)
 
 
 ## Deployment
