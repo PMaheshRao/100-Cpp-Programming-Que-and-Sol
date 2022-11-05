@@ -28,3 +28,9 @@ Please try to solve that pdf on your own .
 If you are not able to solve the question then look into my solution.
 
 Thank You .
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pmaheshrao.github.io/My-portfolio/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-mahesh-rao)
