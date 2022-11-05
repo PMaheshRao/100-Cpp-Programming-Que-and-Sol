@@ -12,7 +12,8 @@ NOTE :  _If you find any better solution, then please commit you code in comment
 PURPOSE OF PROJECT : For a quick revision of some basic coding question which can be asked in interview. 
 <br />
 HOW TO START THIS PROJECT : At the end of program a question pdf is provided , which contain all the questions. So, Start solving question by yourself. 
-<br /> 
+<br />
+<br />
 AUTHORS : P. Mahesh Rao 
 <br />
 <br />
